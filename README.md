@@ -15,10 +15,10 @@
 ### Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=eeyvee-0x4d&show_icons=true&theme=react">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=eeyvee-0x4d&show_icons=true&theme=dark">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeyvee-0x4d&layout=compact&card_width=400">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeyvee-0x4d&theme=dark&layout=compact&card_width=400">
   </a>
 </p>
 
