@@ -1,6 +1,6 @@
 ### Aayyooo!, It's ya boi Eeyvee
 
-<hr>
+<br>
 <p align="center">
   <i> Slide to my DM's</i>
   <p align="center">
@@ -10,7 +10,7 @@
   </p>
 </p>
 
-<hr>
+<br>
 
 ### Stats
 <p align="center">
@@ -28,6 +28,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eeyvee-0x4d&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
  -->
-<!-- ### Now Listening
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ghostmmxvii&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ghostmmxvii&redirect=true) -->
+### Now Listening
+<p align="center">
+  <img src="https://eeyvee-04xd.vercel.app/api/spotify" href="https://open.spotify.com/user/ghostmmxvii">
+</p>
 
