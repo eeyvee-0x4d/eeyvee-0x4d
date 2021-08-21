@@ -1,8 +1,33 @@
-Hey there!, I'm Al Vincent. A student and a programmer.
+### Aayyooo!, It's ya boi Eeyvee
+
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eeyvee-0x4d&show_icons=true&theme=react">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeyvee-0x4d&layout=compact&card_width=400">
-</a>
+<p align="center">
+  <i> Slide to my DM's</i>
+  <p align="center">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://web.facebook.com/alvincent.musa/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/eeyvee.0x4d/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/al-vincent-musa-8b273418a/">
+  </p>
+</p>
+
+<hr>
+
+### Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=eeyvee-0x4d&show_icons=true&theme=react">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeyvee-0x4d&layout=compact&card_width=400">
+  </a>
+</p>
+
+<br>
+
+<!-- [![Eeyvee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeyvee-0x4d&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eeyvee-0x4d&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<!-- ### Now Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ghostmmxvii&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=ghostmmxvii&redirect=true) -->
+
