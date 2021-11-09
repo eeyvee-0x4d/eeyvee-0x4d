@@ -1,8 +1,8 @@
-### Aayyooo!, It's ya boi Eeyvee
+### Aayyooo!, It's ya boi
 
 <br>
 <p align="center">
-  <i> Slide to my DM's</i>
+  <i> Am sadge. Slide to my DM's</i>
   <p align="center">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://web.facebook.com/alvincent.musa/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/eeyvee.0x4d/">
