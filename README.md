@@ -1,11 +1,11 @@
-### Aayyooo!, It's ya boi
+### Aayyooo!, It's ya boi Eeyvee!
 
 <br>
 <p align="center">
-  <i> Am sadge. Slide to my DM's</i>
+  <i>Slide to my Socials</i>
   <p align="center">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://web.facebook.com/alvincent.musa/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/eeyvee.0x4d/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://web.facebook.com/yamada.tarou.desu/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/eeyvee-0x4d/going_dark0000/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/al-vincent-musa-8b273418a/">
   </p>
 </p>
