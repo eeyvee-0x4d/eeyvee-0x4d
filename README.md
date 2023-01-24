@@ -1,11 +1,14 @@
-<img align="center" alt="coding" style="width:100%" src="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eeyvee-0x4d&color=blue&style=flat" alt="Profile views" /> </p>
+
+<div align="center">
+  <img src="image_processing20220304-6667-1fljigz.gif">
+</div>
 
 &nbsp;
 
 <h1 align="center">Hi👋 I'm Al Vincent Musa.</h1>
 <h3 align="center">An aspiring frontend web developer from Philippines.</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eeyvee-0x4d&color=blue&style=flat" alt="Profile views" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,7 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://web.facebook.com/yamada.tarou.desu/">
+<a href="https://web.facebook.com/yamada.tarou.desu/" target="__blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/eeyvee-0x4d/going_dark0000/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/al-vincent-musa-8b273418a/">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -63,3 +68,11 @@
  <img align="center" src="https://streak-stats.demolab.com/?user=eeyvee-0x4d"/>
   </div>
   </div>
+  
+ &nbsp;
+  
+ ### Whats my jam?
+  
+<p align="center">
+  <img src="https://eeyvee-04xd.vercel.app/api/spotify" href="https://open.spotify.com/user/ghostmmxvii">
+</p>
