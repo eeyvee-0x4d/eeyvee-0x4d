@@ -16,7 +16,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack web development, MERN, MEVN, RestAPI**
-- 📫 How to reach me **a.v.musa2017@gmail.com**
+- ✉ How to reach me **a.v.musa2017@gmail.com**
+- 💻 Check out my [Portfolio Website](https://eeyvee-0x4d.github.io/portfolio/) 
 
 &nbsp;
 
